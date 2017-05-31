@@ -13,5 +13,5 @@
 #reload(sys)
 #sys.setdefaultencoding('utf-8')
 
-tiku_path = "/Users/your_name/Desktop/"
+tiku_path = "/Users/wangtao/Desktop/"
     
