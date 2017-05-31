@@ -175,7 +175,6 @@ def sub_plus_2():
 
 
 def make_tiku(tiku_path):
-    #file_path ="/Users/wangtao/Library/Mobile Documents/com~apple~CloudDocs/王浩丞文档/"
     file_path = tiku_path
     for filename in range (1,11):
         answer_list=[]

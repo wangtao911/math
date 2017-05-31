@@ -12,4 +12,4 @@
 #reload(sys)
 #sys.setdefaultencoding('utf-8')
 
-tiku_path = "/Users/wangtao/Library/Mobile Documents/com~apple~CloudDocs/王浩丞文档/"
+tiku_path = "/your_design_path/"
