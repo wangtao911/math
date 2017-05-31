@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_type"
+			],
+			[
+				"view",
+				"views_home"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 319.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 394.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ',' ')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wangtao/Downloads/LEXToplogy.svg",
+		"/Users/wangtao/Library/Mobile Documents/com~apple~CloudDocs/FN-event/JDE.txt",
+		"/Users/wangtao/mydata/myself/京东工作文件/项目文件/2016Q1-公有云互联港湾/基本情况说明.txt",
+		"/Users/wangtao/Library/Mobile Documents/com~apple~CloudDocs/FN-event/FN记录.txt",
+		"/Users/wangtao/Documents/GitHub/tp/teamportal/urls.py",
+		"/Users/wangtao/Documents/GitHub/tp/teamportal/views_show.py",
+		"/Users/wangtao/Documents/GitHub/tp/teamportal/settings.py",
+		"/Users/wangtao/Documents/GitHub/tmp/py-test.py",
+		"/Users/wangtao/Documents/GitHub/tp/teamportal/files/file-a.file",
+		"/Users/wangtao/Documents/GitHub/tp/teamportal/template/base.html",
+		"/Users/wangtao/Documents/GitHub/tp/README.md",
+		"/Users/wangtao/mydata/software/mac-shell/vgtup.sh",
+		"/Users/wangtao/mydata/software/VM/Vagrant/centos7/Vagrantfile",
+		"/var/folders/_c/7xmfm3fs7n51m35vq7mqyzxc0000gn/T/sublime-sftp-browse-1495956111/setting/root/GitHub/teamportal/teamportal/urls.py",
+		"/var/folders/_c/7xmfm3fs7n51m35vq7mqyzxc0000gn/T/sublime-sftp-browse-1495954169/setting/root/GitHub/teamportal/manage.py",
+		"/Users/wangtao/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/setting",
+		"/var/folders/_c/7xmfm3fs7n51m35vq7mqyzxc0000gn/T/sublime-sftp-browse-1495953812/setting/root/GitHub/teamportal/README.md",
+		"/Users/wangtao/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/untitled",
+		"/Users/wangtao/Documents/GitHub/ddb/README.md",
+		"/Users/wangtao/Documents/GitHub/repo01/README.md",
+		"/private/var/folders/_c/7xmfm3fs7n51m35vq7mqyzxc0000gn/T/com.microsoft.Outlook/Outlook Temp/洛杉矶割接涉及IP.txt",
+		"/Users/wangtao/mydata/myself/柳文扬作品集/一线天.txt",
+		"/Users/wangtao/mydata/myself/柳文扬作品集/偶遇.txt.dump",
+		"/Users/wangtao/mydata/myself/柳文扬作品集/人魔岛 威尔斯.txt.dump",
+		"/Users/wangtao/mydata/myself/柳文扬作品集/人魔岛 威尔斯.txt",
+		"/Users/wangtao/mydata/myself/柳文扬作品集/偶遇.txt",
+		"/Users/wangtao/Library/Mobile Documents/com~apple~CloudDocs/一日囚.txt",
+		"/Users/wangtao/Desktop/text.txt",
+		"/Volumes/LE-DATA/010-universal/乐视通道机/通道机动态密码-CLI版本.txt",
+		"/Users/wangtao/mydata/software/mac-shell/scmdb.py",
+		"/Users/wangtao/mydata/software/mac-shell/clean.sh",
+		"/Users/wangtao/mydata/software/Proxifier/Proxifier 注册码.txt",
+		"/Users/wangtao/Downloads/BetweenBackupText.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"=>",
+			">",
+			"get",
+			"title",
+			"1",
+			"5.1.22",
+			"4.3.8",
+			",",
+			"123.59.122.73;123.125.36.29;36.110.222.45"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 180.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "math-4-rules-v2.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
