@@ -13,3 +13,6 @@
 #sys.setdefaultencoding('utf-8')
 
 tiku_path = "/your_design_path/"
+min = 200
+max = 9000
+
