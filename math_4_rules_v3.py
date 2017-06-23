@@ -5,47 +5,25 @@
     --------------------------------
     create by wangtao   yyyy.mm.dd
 """
+#reload(sys)
+#sys.setdefaultencoding('utf-8')
+
 import sys
 import os
 import commands
 import random 
 from setting import *
 from user_setting import *
-from base_mul_div import *
+
+from base_4_rules import *
+from make_sub_plus_with_min_max import *
 from make_tiku import *
-#reload(sys)
-#sys.setdefaultencoding('utf-8')
 
-global pnl 
-pnl = make_prime_number(min,max)
-
-def sub():
-    #pnl = make_prime_number(min,max)
-    round_range=[-1,-2,-2,-2]
-    a = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-    b = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-    while (a - b) < 800: 
-        a = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-        b = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-    s = a-b
-    d1,d2,d3 = int(a),int(b),int(s)
-    result = ( '%s - %s =  ,'% (d1,d2))
-    return result,d3
-
-def plus():
-    #pnl = make_prime_number(min,max)
-    round_range=[-1,-2,-2,-2]
-    a = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-    b = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-    s = a + b
-    while s > max : 
-        a = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-        b = round(pnl[random.randint(10,len(pnl)-1)],random.choice(round_range))
-        s = a+b
-    d1,d2,d3 = int(a),int(b),int(s)
-    result = ( '%s + %s =  ,'% (d1,d2))
-    return result,d3
 
 if __name__ == '__main__':
+    print "min is " + str(min)
+    print "max is " + str(max)
+    print "tiku_path is " + tiku_path
     print "This math V3"
     make_tiku(tiku_path)
+
